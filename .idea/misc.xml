@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1628256295793.xml" value="0.165" />
+        <entry key="../../../../layout/compose-model-1628463896925.xml" value="0.2622466216216216" />
+        <entry key="../../../../layout/compose-model-1628810386991.xml" value="0.26309121621621623" />
+        <entry key="../../.gradle/caches/transforms-3/9b931bdbd8c9e62a8aeb76a1d630a3b4/transformed/appcompat-resources-1.2.0/res/drawable/abc_vector_test.xml" value="0.2814814814814815" />
+        <entry key="app/src/main/res/drawable-v24/contactless_24px_black.xml" value="0.30923076923076925" />
+        <entry key="app/src/main/res/drawable-v24/ic_visa_inc_logo_black.xml" value="0.30923076923076925" />
+        <entry key="app/src/main/res/drawable/coffee_takeaway_outline.xml" value="0.2814814814814815" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
