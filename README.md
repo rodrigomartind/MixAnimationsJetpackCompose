@@ -3,10 +3,18 @@
 ### This repository contains a set of MotionLayout/ConstraintLayout Compose examples.
 
 -----------------------------
+## ConstraintLayout Compose Samples
 
 |  Title  |  GIF  | Composable |
 | :----: | :----: | :----: |
-|  Starbucks Demo (inProgress) | <img src="https://user-images.githubusercontent.com/24611045/129284605-66a31a48-47d9-4f43-b869-a8bac1c2e5a6.gif" height="360" width="180" > | [Composable](https://github.com/rodrigomartind/MixAnimationsJetpackCompose/blob/main/app/src/main/java/com/rodrigodominguez/mixanimationsjetpackcompose/starbucksdemo/StarbucksDemo.kt)
+|  Starbucks Demo (inProgress) | <img src="https://user-images.githubusercontent.com/24611045/129284836-814ed500-e2d1-4fa9-9f8c-7be482184ff7.png" height="360" width="180" > | [Composable](https://github.com/rodrigomartind/MixAnimationsJetpackCompose/blob/main/app/src/main/java/com/rodrigodominguez/mixanimationsjetpackcompose/starbucksdemo/CardComposable.kt)
+
+
+## MotionLayout Compose Samples
+
+|  Title  |  GIF  | Composable |
+| :----: | :----: | :----: |
+|  Starbucks Demo (**inProgress**) | <img src="https://user-images.githubusercontent.com/24611045/129284605-66a31a48-47d9-4f43-b869-a8bac1c2e5a6.gif" height="360" width="180" > | [Composable](https://github.com/rodrigomartind/MixAnimationsJetpackCompose/blob/main/app/src/main/java/com/rodrigodominguez/mixanimationsjetpackcompose/starbucksdemo/StarbucksDemo.kt)
 
 
 ## Find me at:
